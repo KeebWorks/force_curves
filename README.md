@@ -1,5 +1,4 @@
 # force_curves
-Force curves of mechanical keyboard switches.
 
 Hi everyone,
 
